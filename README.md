@@ -1,7 +1,7 @@
 Online booking system
 ====================
 
-*EN*
+<h2>EN</h2>
 
 Online booking system
 System for online booking of visas, insurances, hotels, air tickets. Website was developed under NDA.
@@ -12,7 +12,7 @@ Stack: javascript, jquery, jqueryUI, html, css, gruntjs, requirejs, almondjs, lo
 
 ====================
 
-*RU*
+<h2>RU</h2>
 
 Система онлайн бронирования виз, страховок, отелей, авиабилетов.
 Сайт разрабатывался и поддерживался по договору NDA.
