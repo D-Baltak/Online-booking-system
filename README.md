@@ -1,6 +1,8 @@
 Online booking system
 ====================
 
+** RU **
+
 Система онлайн бронирования виз, страховок, отелей, авиабилетов.
 Сайт разрабатывался и поддерживался по договору NDA.
 
@@ -8,7 +10,7 @@ Online booking system
 
 Стэк: javascript, jquery, jqueryUI, html, css, gruntjs, requirejs, almondjs, lodash, backbone, easyXDM(кросспротокольные запросы), localStorage, sessionStorage, cookies, rollbar, svn, jira(разработка в рамках спринтов).
 
-=================================================================
+** EN **
 
 Online booking system
 System for online booking of visas, insurances, hotels, air tickets. Website was developed under NDA.
